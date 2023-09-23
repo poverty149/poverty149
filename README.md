@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently pursuing my masters in Electrical and Computer Engineering at the University of Florida. If you have any leads on summer and fall 2023 internships or would like to collaborate on an ML project, then feel free to drop me a line at p.unnikrishnan@ufl.edu.
+I'm currently pursuing my master's in Electrical and Computer Engineering at the University of Florida. If you have any leads on spring coops, full-time positions for new grads starting May 2024 or would like to collaborate on an ML project, then feel free to drop me a line at p.unnikrishnan@ufl.edu.
 
 Here's a breakdown of my repositories by category.
 
